@@ -1,2 +1,3 @@
 nombre ="maria Camila"
-print(nombre)
+edad = 15
+print(nombre, edad)
